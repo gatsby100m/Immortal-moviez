@@ -1,1 +1,2 @@
 VITE_API_BASE=https://immortal-moviez.onrender.com/api
+VITE_TMDB_API_KEY=41c209d25c3c946c6977a90ad419e697
